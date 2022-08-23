@@ -1,5 +1,4 @@
-# LuisFBecerrilJurado.github.io
-Portafolio Personal
+# Clon pagina principal Google
 
 Clonación de la página de inicio de Google 
 
